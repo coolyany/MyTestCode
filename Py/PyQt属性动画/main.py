@@ -79,7 +79,7 @@ if __name__ == "__main__":
     app=QApplication(sys.argv)
 
     w=MyLabel()
-    w.setWindowTitle("龚建波 1992")
+    w.setWindowTitle("1992")
     w.show()
    
     sys.exit(app.exec_())
